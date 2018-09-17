@@ -1,5 +1,8 @@
 _repo: The-Grip-of-Honor-A-Story-of-Paul-Jones-and-the-American-Revolution_52540
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52540-h/images/frontcover.png
 creator:
   author:
     agent_name: Brady, Cyrus Townsend
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5591
     wikipedia: http://en.wikipedia.org/wiki/Cyrus_Townsend_Brady
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52540#The-Grip-of-Honor-A-Story-of-Paul-Jones-and-the-American-Revolution
 gutenberg_issued: '2016-07-09'
 gutenberg_type: Text
 identifiers:
